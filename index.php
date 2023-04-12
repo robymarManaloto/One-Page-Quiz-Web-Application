@@ -9,7 +9,8 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Registration</title>
+      <title>Registration Form</title>
+      <link rel="icon" type="image/x-icon" href="icon.png">
       <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
       <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
